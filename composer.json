@@ -1,0 +1,32 @@
+{
+    "name": "piecemotooccasion/prestashop-marketplace",
+    "type": "prestashop-module",
+    "description": "Module PrestaShop 1.7 / 8 : vendez vos pieces moto sur la marketplace PieceMotoOccasion (catalogue et stock synchronises, commandes recues automatiquement).",
+    "keywords": [
+        "prestashop",
+        "module",
+        "marketplace",
+        "piece-moto",
+        "casse-moto"
+    ],
+    "homepage": "https://piecemotooccasion.eu/extensions/prestashop",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PieceMotoOccasion",
+            "email": "tony@piecemotooccasion.eu",
+            "homepage": "https://piecemotooccasion.eu"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tony-dev-web/pmo-marketplace-prestashop/issues",
+        "source": "https://github.com/tony-dev-web/pmo-marketplace-prestashop",
+        "docs": "https://piecemotooccasion.eu/extensions/prestashop"
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "minimum-stability": "stable"
+}

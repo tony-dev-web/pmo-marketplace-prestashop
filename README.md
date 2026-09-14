@@ -19,6 +19,14 @@ L'extension utilise l'API vendeur PieceMotoOccasion (`https://piecemotooccasion.
 
 Licence MIT.
 
+## La plateforme
+
+Cette extension s'installe sur PrestaShop, qui n'est pas edite par PieceMotoOccasion.
+
+- Site officiel : https://www.prestashop.com
+- Code source de la plateforme : https://github.com/PrestaShop/PrestaShop
+- Documentation pour developpeurs : https://devdocs.prestashop-project.org/
+
 ## Les extensions PieceMotoOccasion
 
 - [WooCommerce](https://github.com/tony-dev-web/pmo-marketplace-woocommerce)
